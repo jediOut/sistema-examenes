@@ -4,3 +4,18 @@
 .blue{
     color: 5353ec !important;
 }
+a{
+    color: #fff;
+    font-weight: 300;
+    text-decoration: none;
+    transition: transform .3s ease;
+}
+a:hover{
+transform: scale(1.1);
+}
+a:active{
+    color: #48ef;
+}
+mat-icon{
+    margin: 0 5px 0 0;
+}
