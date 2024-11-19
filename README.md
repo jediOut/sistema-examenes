@@ -41,3 +41,6 @@ Los usuarios pueden realizar los exámenes y obtener sus resultados.
 ![Login del Sistema](imagenes-proyecto/login.png "Vista del inicio de sesión del sistema")
 ### Registro
 ![Registro al sistema](imagenes-proyecto/registro.png "Vista del registro de usuarios")
+### Administrador
+![Agregar categorias](imagenes-proyecto/agregar-categoria.png "Vista para agregar categorias")
+
