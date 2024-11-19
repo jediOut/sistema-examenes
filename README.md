@@ -36,3 +36,6 @@ Los usuarios pueden realizar los exámenes y obtener sus resultados.
    `npm install`
 4. Ejecutar la aplicación:  
    `ng serve`
+## Capturas
+### Login
+![Login dek Sistema](imagenes-proyecto/login.png "Vista del inicio de sesión del sistema")
