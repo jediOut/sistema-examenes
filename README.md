@@ -38,4 +38,6 @@ Los usuarios pueden realizar los exámenes y obtener sus resultados.
    `ng serve`
 ## Capturas
 ### Login
-![Login dek Sistema](imagenes-proyecto/login.png "Vista del inicio de sesión del sistema")
+![Login del Sistema](imagenes-proyecto/login.png "Vista del inicio de sesión del sistema")
+### Registro
+![Registro al sistema](imagenes-proyecto/registro.png "Vista del registro de usuarios")
