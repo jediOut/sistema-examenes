@@ -45,4 +45,8 @@ Los usuarios pueden realizar los exámenes y obtener sus resultados.
 ![Agregar categorias](imagenes-proyecto/agregar-categoria.png "Vista para agregar categorias")
 ![Agregar examen](imagenes-proyecto/agregar-examen.png "Vista para agregar examenes")
 ![Agregar Pregunta](imagenes-proyecto/agregar-pregunta.png "Vista para agregar preguntas")
+### Usuario 
+![Ver examenes](imagenes-proyecto/perfil-usuario.png "Vista para ver los examenes")
+![Comenzar examen](imagenes-proyecto/comenzar-examen.png "Vista previa antes de comenzar los examenes")
+![Responder examenes](imagenes-proyecto/responder-pregunta.png "Vista para responder los examenes")
 
