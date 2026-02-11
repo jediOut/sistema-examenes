@@ -18,7 +18,7 @@ Los usuarios pueden realizar los exámenes y obtener sus resultados.
 ### Backend
 
 1. Clonar el repositorio:  
-   `git clone https://github.com/tu-usuario/sistema-examenes.git`
+   `git clone https://github.com/jediOut/sistema-examenes.git`
 2. Entrar en el directorio del backend:  
    `cd sistema-examenes/sistema-examenes-backend`
 3. Compilar el proyecto:  
@@ -29,7 +29,7 @@ Los usuarios pueden realizar los exámenes y obtener sus resultados.
 ### Frontend
 
 1. Clonar el repositorio:  
-   `git clone https://github.com/tu-usuario/sistema-examenes.git`
+   `git clone https://github.com/jediOut/sistema-examenes.git`
 2. Entrar en el directorio del frontend:  
    `cd sistema-examenes/sistema-examenes-frontend`
 3. Instalar dependencias:  
