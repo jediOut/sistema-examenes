@@ -13,6 +13,13 @@ Los usuarios pueden realizar los exámenes y obtener sus resultados.
 - **Frontend**: Angular
 - **Base de datos**: MySQL
 
+## Arquitectura y seguridad
+
+- Backend organizado en controladores, servicios, repositorios y entidades.
+- Autenticación mediante JWT y autorización para administradores y usuarios.
+- Guards e interceptor de autenticación en Angular.
+- Credenciales de base de datos configuradas mediante variables de entorno.
+
 ## Instalación
 
 ### Backend
@@ -23,7 +30,8 @@ Los usuarios pueden realizar los exámenes y obtener sus resultados.
    `cd sistema-examenes/sistema-examenes-backend`
 3. Compilar el proyecto:  
    `mvn clean install`
-4. Ejecutar el servidor:  
+4. Configurar `DB_USERNAME` y `DB_PASSWORD` tomando `.env.example` como referencia.
+5. Ejecutar el servidor:  
    `mvn spring-boot:run`
 
 ### Frontend
@@ -36,6 +44,17 @@ Los usuarios pueden realizar los exámenes y obtener sus resultados.
    `npm install`
 4. Ejecutar la aplicación:  
    `ng serve`
+
+## Verificación
+
+```bash
+cd sistema-examenes-backend
+./mvnw test
+
+cd ../sistema-examenes-frontend
+npm test
+npm run build
+```
 ## Capturas
 ### Login
 ![Login del Sistema](imagenes-proyecto/login.png "Vista del inicio de sesión del sistema")
